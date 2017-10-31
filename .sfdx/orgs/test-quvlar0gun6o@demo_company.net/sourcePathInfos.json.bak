@@ -827,14 +827,14 @@
     [
         "C:\\Users\\Emer\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Emer\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1509472669873,
+            "changeTime": 1509472669873,
+            "contentHash": "aca8c0a4a1a4a0b99621e838290cf3aff7ec1bf0",
             "isMetadataFile": false,
-            "size": 318,
-            "modifiedTime": 1509472780576,
-            "changeTime": 1509472780576,
-            "contentHash": "56169984cf3e18a5a935d7ccdf22dce439d101c7"
+            "state": "u"
         }
     ],
     [
@@ -866,14 +866,14 @@
     [
         "C:\\Users\\Emer\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Emer\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 802,
             "modifiedTime": 1509472713922,
             "changeTime": 1509472713922,
-            "contentHash": "bf7cfb7ca371ba3bf40e45e32195f8621d99f42d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "bf7cfb7ca371ba3bf40e45e32195f8621d99f42d"
         }
     ],
     [
